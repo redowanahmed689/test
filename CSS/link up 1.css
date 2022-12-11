@@ -1,0 +1,9 @@
+body{
+    background-color: gray;
+}
+.logo{
+width: 10px;
+height: 10px;
+padding: 10px 0;
+float: left;
+}

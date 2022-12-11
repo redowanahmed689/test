@@ -1,0 +1,160 @@
+a{
+    text-decoration: none;
+}
+
+.full-wraper{
+    width: 100%;
+    clear: both;
+}
+.wraper{
+    width: 1100px;
+    margin: 0 auto;
+
+}
+
+.logo img{
+    width: 140px;
+    padding: 0px 0px 0px 40px;
+    float:left
+    
+}
+.menu{
+    width: 380px;
+    text-align: center; 
+  
+    padding:50px 0px 0px 450px
+    
+    
+
+}
+   .menu a{
+   padding: 10px;
+    color: black;
+     font-size: 22px;
+   }
+     .reg a{
+        float: right;
+    padding: 20px;
+        color: black;
+        font-size: 24px;
+        reg
+        
+    }
+    
+   
+   .banner-img{
+    
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+padding: 200px 0px;
+   }
+.banner-text{
+    color: white;
+text-align: center;
+
+}
+.service-item{
+    color: red;
+    border: 1px dotted black;
+    margin: 20px;
+    width: 300px;
+    float: left;
+    text-align: center;
+     padding: 20px;
+     height: 150px;
+     size: 12px;
+
+}
+
+
+.sing-up{
+    background-image: url(../img/w2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    padding: 100px 0px;
+    
+
+}
+.table{
+    color: white;
+    margin: 100px auto;
+}
+.h1{
+    text-align: center;
+    color: white;
+}
+.table tr td{
+    padding: 12px 0px 0px 0px;
+font-size: 25px;
+width: auto;
+color: white;
+}
+.table tr td input{
+    background: transparent;
+    border: 2px solid #777;
+border-bottom: 2px solid white;
+color: white;
+}
+table tr td button{
+    background: transparent;
+    border: none;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border: 3px solid #777;
+    transition: .64s;
+}
+.table tr td button:hover{
+    color: black;
+    background-color:white;
+
+}
+.Sing-in{
+    background-image: url(../img/w2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    padding: 100px 0px;
+
+}
+table{
+    margin: 100px auto;
+    color: white;
+   
+}
+h1{
+    text-align: center;
+    color: white;
+}
+table tr td{
+    padding: 12px 0px 0px 0px;
+    width:auto;
+    color: white;
+    font-size: 25px;
+}
+table tr td input{
+    background: transparent;
+    border:2px white solid;
+    border-bottom: #777 2px solid;
+}
+table tr td button{
+        background: transparent;
+        border: none;
+        color: white;
+        height: 40px;
+        width: 100px;
+        border: 3px solid #777;
+        transition: .64s;
+}
+table tr td button:hover{
+    color: black;
+    background-color: white;
+}
+
